@@ -1,0 +1,47 @@
+.textarea { margin-top: 50px; 
+}
+.modebtn
+{
+    background-color: transparent; 
+    height: 30px;
+    width: 30px;
+    border: 0px;
+}
+.modebtn:hover
+{
+    color: lightyellow;
+    transition: .3s;
+}
+.navbar
+{
+  flex-wrap: nowrap;
+}
+.navbar-collapse
+{
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.colorOptions
+{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: right;
+}
+
+nav
+{
+    box-shadow: 0px 2px 8px black;
+    height: 60px;
+}
+footer
+{
+  display: flex;
+  justify-content: space-between;  
+  align-items: center;
+  background-color: aquamarine;
+}
+a:hover
+{
+  text-decoration: none;
+}
+.alert{ height: 50px; position: absolute; top: 80px; }
